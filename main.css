@@ -581,14 +581,14 @@ li{
         gap:5px;
     }
 
-    .items i {
-        display: inline;
-    }
-    .items{
+ .items a, button{
    
         height: 46px;
         width: 50%;
         display: none;
+    }
+    .items i {
+        display: inline;
     }
 
     .section1{
